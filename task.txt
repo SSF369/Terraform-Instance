@@ -1,0 +1,7 @@
+Completed Task --->
+
+create an ec2 instance with key pair and secutrity group with inbound and outbound rules defined assign to that instance
+
+pending Task --->
+
+provide user data while creating instance from terraform.
